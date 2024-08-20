@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(10, 17, 56);
+}
+h1{
+    color: antiquewhite;
+}
+p{color:aliceblue;}
+
+header {color: aliceblue;
+text-align:center; }
+
+.center{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.container img{
+    width: 500;
+    height: 300px;
+}
